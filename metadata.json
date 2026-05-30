@@ -1,0 +1,6 @@
+{
+  "name": "Ghar Real Estate Advisory",
+  "description": "A luxury, minimalist real estate brokerage website listing Dubai and Abu Dhabi premium off-plan projects with integrated advisory services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
